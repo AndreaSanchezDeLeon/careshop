@@ -1,0 +1,181 @@
+[
+    {
+        "id": "serum",
+        "titulo": "Serum",
+        "imagen": "./img/cuidadodelapiel/01.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 2.50
+    },
+    {
+        "id": "cremacorporal",
+        "titulo": "Crema Corporal",
+        "imagen": "./img/cuidadodelapiel/02.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 1.50
+    },
+    {
+        "id": "cremahidratante",
+        "titulo": "Crema Hidratante",
+        "imagen": "./img/cuidadodelapiel/03.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 2.90
+    },
+    {  "id": "gellimpiador",
+    "titulo": "Gel Limpiador",
+    "imagen": "./img/cuidadodelapiel/04.jpg",
+    "categoria": {
+        "nombre": "cuidadodelapiel",
+        "id": "cuidadodelapiel"
+    },
+    "precio": 1.90
+    },
+    {
+        "id": "retinol",
+        "titulo": "Retinol",
+        "imagen": "./img/cuidadodelapiel/05.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 2.90
+    },
+    {
+        "id": "aguamicelar",
+        "titulo": "Agua Micelar",
+        "imagen": "./img/cuidadodelapiel/06.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 0.30
+    },
+    {
+        "id": "cgeldeducha",
+        "titulo": "Gel de ducha",
+        "imagen": "./img/cuidadodelapiel/07.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 1.0
+    },
+    {
+        "id": "protectorsolar",
+        "titulo": "Protector Solar",
+        "imagen": "./img/cuidadodelapiel/08.jpg",
+        "categoria": {
+            "nombre": "cuidadodelapiel",
+            "id": "cuidadodelapiel"
+        },
+        "precio": 3.9
+    },
+    {
+        "id": "acondicionador",
+        "titulo": "Acondicionador",
+        "imagen": "./img/cuidadocapilar/01.jpg",
+        "categoria": {
+            "nombre": "cuidadocapilar",
+            "id": "cuidadocapilar"
+        },
+        "precio": 1.0
+    },
+    {
+        "id": "cepillo",
+        "titulo": "Cepillo cabello",
+        "imagen": "./img/cuidadocapilar/02.jpg",
+        "categoria": {
+            "nombre": "cuidadocapilar",
+            "id": "cuidadocapilar"
+        },
+        "precio": 0.5
+    },
+    {
+        "id": "fijador",
+        "titulo": "Fijador",
+        "imagen": "./img/cuidadocapilar/03.jpg",
+        "categoria": {
+            "nombre": "cuidadocapilar",
+            "id": "cuidadocapilar"
+        },
+        "precio": 2.0
+    },
+    {
+        "id": "mascarareparadora",
+        "titulo": "Mascara reparadora",
+        "imagen": "./img/cuidadocapilar/04.jpg",
+        "categoria": {
+            "nombre": "cuidadocapilar",
+            "id": "cuidadocapilar"
+        },
+        "precio": 3.5
+    },
+    {
+        "id": "acondicionador",
+        "titulo": "Acondicionador",
+        "imagen": "./img/cuidadocapilar/05.jpg",
+        "categoria": {
+            "nombre": "cuidadocapilar",
+            "id": "cuidadocapilar"
+        },
+        "precio": 0.9
+    },
+    {
+        "id": "bellevie",
+        "titulo": "Belle Vie",
+        "imagen": "/img/perfumeria/01.jpeg",
+        "categoria": {
+            "nombre": "perfumeria",
+            "id": "perfumeria"
+        },
+        "precio": 5.1
+    },
+    {
+        "id": "antoniobanderas",
+        "titulo": "Antonio Banderas",
+        "imagen": "/img/perfumeria/02.jpeg",
+        "categoria": {
+            "nombre": "perfumeria",
+            "id": "perfumeria"
+        },
+        "precio": 4.9
+    },
+    {
+        "id": "paco",
+        "titulo": "Paco",
+        "imagen": "./img/perfumeria/03.jpg",
+        "categoria": {
+            "nombre": "perfumeria",
+            "id": "perfumeria"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "mujercitas",
+        "titulo": "Mujercitas",
+        "imagen": "./img/perfumeria/04.jpg",
+        "categoria": {
+            "nombre": "perfumeria",
+            "id": "perfumeria"
+        },
+        "precio": 2.3
+    },
+    {
+        "id": "polo",
+        "titulo": "Polo Ralph Lauren",
+        "imagen": "./img/perfumeria/05.jpg",
+        "categoria": {
+            "nombre": "perfumeria",
+            "id": "perfumeria"
+        },
+        "precio": 6.0
+    }
+]
